@@ -1,3 +1,4 @@
+#Teste strings
 n = str(input('Insira o seu nome: '))
 print('O nome digitado foi {}.'.format(n))
 print('-' * 20)

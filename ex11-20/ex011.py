@@ -1,4 +1,4 @@
-# Pintando uma parede
+# Pintando e calculando uma parede
 lar = float(input('Digite a largura da parede: '))
 alt = float(input('Digite a altura da parede: '))
 quant = float(input('Quantos metros quadrados sua tinta cobre? '))
